@@ -1,6 +1,10 @@
 # BoomInjector
 ![image](https://user-images.githubusercontent.com/83485103/170792887-904f58e9-8a8c-4e30-9374-e462cd8399ab.png)
 
+## Notices
+
+- Run the Application as an administrator
+
 ## Features
 
 - VACBypass
@@ -8,4 +12,4 @@
 
 ## contact
 
-Lieth.#8220
+#Lieth.#8220
